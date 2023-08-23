@@ -1,0 +1,11 @@
+This is basically the all the tps, u dont rly need to look at smart tp cas that just scans for cobble pillars the main thing u wana look for are ->
+
+TeleportToNextBlock.java -> initiates teleporttoblock
+
+and
+
+TeleportToBlock.java -> does all the actions
+
+and 
+
+IsOnBlock -> just detects when player is on next block and does stuff accordingly (may be broken tho dono, havent tested in a while)

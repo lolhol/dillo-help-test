@@ -1,0 +1,1 @@
+This is basically the thing that powers the dillo macro. Lately ive been moving away from this way because of the 50ms delay but ye a lot of things are powered through this
